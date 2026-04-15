@@ -1,0 +1,23 @@
+PROJECT: Honeycomb Desk Organizer
+=================================
+Category: Office & Desk > Organizers
+Etsy Price: $15-22
+
+DESCRIPTION:
+Triple hexagonal cell desk organizer. Three connected honeycomb cups for pens,
+pencils, scissors, markers. Structural bridges between cells. Geometric aesthetic.
+
+FILES:
+  honeycomb_organizer.stl/gcode - Single print, all 3 cells
+
+PRINT STATS:
+  Time:     9h 34m
+  Material: 114.2g PETG (~$2.85 filament)
+
+PRINT TIPS:
+  - Print upright (cells open at top)
+  - 20% infill is sufficient
+  - No supports needed
+  - Looks great in two-tone filament
+
+DIMENSIONS: ~100mm wide x 100mm deep x 100mm tall

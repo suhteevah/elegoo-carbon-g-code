@@ -1,0 +1,27 @@
+PROJECT: Geometric Tea Light Holder
+=====================================
+Category: Home & Living > Candle Holders
+Etsy Price: $10-15
+
+DESCRIPTION:
+12-sided faceted tea light holder with alternating rotated layers for a
+mesmerizing crystalline pattern. Fits standard 38mm tea lights.
+Decorative exterior columns add visual interest.
+
+FILES:
+  tea_light_holder.stl/gcode - Single piece
+
+PRINT STATS:
+  Time:     3h 38m
+  Material: 54.7g PETG (~$1.37 filament)
+
+PRINT TIPS:
+  - Print upright (open top)
+  - No supports needed
+  - The faceted layers create beautiful light patterns
+  - PETG is heat-safe for tea lights (higher melting point than PLA)
+  - Translucent filament creates amazing glow-through effect
+
+DIMENSIONS: 70mm diameter x 50mm tall
+FITS: Standard tea light candles (38mm diameter)
+SAFETY: Use PETG or ABS only - PLA can deform near flames

@@ -1,0 +1,28 @@
+PROJECT: Cable Management Clips
+================================
+Category: Office & Desk > Cable Management
+Etsy Price: $8-12 (set of 6 mixed)
+
+DESCRIPTION:
+Adhesive-back cable management clips in 1, 2, and 3-slot variants.
+Keep desk cables organized. Flat base for 3M adhesive tape mounting.
+
+FILES:
+  cable_clip_1slot.stl/gcode  - Single cable (USB, Lightning)
+  cable_clip_2slot.stl/gcode  - Two cables
+  cable_clip_3slot.stl/gcode  - Three cables
+
+PRINT STATS:
+  1-slot:    20m | 2.2g PETG
+  2-slot:    26m | 3.6g PETG
+  3-slot:    29m | 5.0g PETG
+  Total:   1h15m | 10.7g PETG (~$0.27 filament)
+
+PRINT TIPS:
+  - Print flat (base down)
+  - Low infill OK (15%)
+  - Very fast prints - batch multiple on plate
+  - Attach with 3M VHB tape or Command strips
+  - Sell in packs of 6-10 for best Etsy value
+
+CABLE DIAMETER: ~8mm slot (fits most USB/Lightning/Type-C cables)

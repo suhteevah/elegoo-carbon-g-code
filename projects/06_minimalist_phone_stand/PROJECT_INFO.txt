@@ -1,0 +1,24 @@
+PROJECT: Minimalist Phone Stand
+================================
+Category: Office & Desk > Phone Accessories
+Etsy Price: $12-18
+
+DESCRIPTION:
+Clean minimalist phone stand with 15-degree viewing angle. Built-in cable
+channel for charging while docked. Fits all phone sizes.
+
+FILES:
+  phone_stand.stl/gcode - Single piece print
+
+PRINT STATS:
+  Time:     3h 25m
+  Material: 52.8g PETG (~$1.32 filament)
+
+PRINT TIPS:
+  - Print upright (base on bed)
+  - 20-30% infill for stability
+  - Add rubber feet or silicone pads for grip
+  - Cable channel runs through the front lip
+
+DIMENSIONS: 80mm x 80mm base, 90mm tall back support
+COMPATIBLE: All phones (portrait and landscape)

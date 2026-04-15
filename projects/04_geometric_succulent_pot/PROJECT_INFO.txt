@@ -1,0 +1,25 @@
+PROJECT: Geometric Succulent Pot
+=================================
+Category: Home & Garden > Planters
+Etsy Price: $10-15
+
+DESCRIPTION:
+Low-poly hexagonal succulent pot with subtle twist per layer for a unique
+geometric spiral effect. Includes matching saucer. Central drainage hole.
+
+FILES:
+  succulent_pot.stl/gcode     - Main pot with twisted hex walls
+  succulent_saucer.stl/gcode  - Matching drainage saucer
+
+PRINT STATS:
+  Pot:     1h 59m | 25.5g PETG
+  Saucer:    20m  |  4.7g PETG
+  Total:   2h 19m | 30.2g PETG (~$0.76 filament)
+
+PRINT TIPS:
+  - No supports needed
+  - The twist is subtle and elegant
+  - Saucer catches drainage water
+  - Great for small succulents, cacti, air plants
+
+DIMENSIONS: 80mm diameter x 55mm tall (pot), 86mm dia x 10mm (saucer)

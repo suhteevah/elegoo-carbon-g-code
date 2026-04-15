@@ -1,0 +1,29 @@
+PROJECT: Geometric Self-Watering Planter
+========================================
+Category: Home & Garden > Planters
+Etsy Price: $18-25
+
+DESCRIPTION:
+Modern octagonal self-watering planter. Two-piece design: outer water reservoir
+holds water, inner pot has 5 wicking drainage tubes that draw water up to roots.
+Geometric/low-poly aesthetic. PETG makes it naturally water-resistant.
+
+FILES:
+  planter_reservoir.stl/gcode  - Outer reservoir (water tank)
+  planter_inner_pot.stl/gcode  - Inner pot (with drain tubes)
+  planter_combined_preview.stl - Both parts (preview only)
+  generate_planter.py          - Parametric generator (customize dimensions)
+
+PRINT STATS:
+  Reservoir:  6h 21m | 82.5g PETG
+  Inner Pot:  4h 12m | 64.5g PETG
+  Total:     10h 33m | 147.0g PETG (~$3.68 filament)
+
+PRINT TIPS:
+  - Print reservoir with 100% bottom infill for watertight seal
+  - PETG at 235C with 3+ walls recommended
+  - No supports needed
+  - Inner pot flange rests on reservoir lip
+  - Consider food-safe filament if growing herbs
+
+DIMENSIONS: 100mm diameter x 90mm tall (assembled)

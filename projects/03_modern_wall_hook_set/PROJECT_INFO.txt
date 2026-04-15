@@ -1,0 +1,27 @@
+PROJECT: Modern Wall Hook Set
+==============================
+Category: Home & Living > Hooks & Hardware
+Etsy Price: $12-18 (set of 3)
+
+DESCRIPTION:
+Set of 3 modern J-shaped wall hooks in small, medium, and large sizes.
+Clean minimalist design for coats, bags, towels, keys. Screw-mount.
+
+FILES:
+  wall_hook_small.stl/gcode   - 30mm hook (keys, light items)
+  wall_hook_medium.stl/gcode  - 45mm hook (bags, towels)
+  wall_hook_large.stl/gcode   - 60mm hook (coats, heavy items)
+
+PRINT STATS:
+  Small:   1h 19m |  7.7g PETG
+  Medium:  1h 41m | 13.4g PETG
+  Large:   2h 04m | 20.7g PETG
+  Total:   5h 04m | 41.7g PETG (~$1.04 filament)
+
+PRINT TIPS:
+  - Print flat (back plate on bed) for maximum strength
+  - 40%+ infill recommended for load-bearing strength
+  - PETG preferred over PLA for durability
+  - Use wall anchors for drywall mounting
+
+WEIGHT CAPACITY: ~2-5kg depending on size and mounting

@@ -1,0 +1,24 @@
+PROJECT: Soap Dish Drainer
+===========================
+Category: Bath & Beauty > Soap Dishes
+Etsy Price: $10-14
+
+DESCRIPTION:
+Angled soap dish with 8 drainage slats and front drain channel.
+Keeps soap dry between uses. Elevated ribs allow airflow underneath soap.
+
+FILES:
+  soap_dish.stl/gcode - Single piece
+
+PRINT STATS:
+  Time:     2h 35m
+  Material: 38.6g PETG (~$0.97 filament)
+
+PRINT TIPS:
+  - PETG mandatory (water resistance)
+  - Print with bottom on bed
+  - 3+ walls for water tightness
+  - The slats are slightly raised to keep soap elevated
+  - Front channel directs water to drain point
+
+DIMENSIONS: 90mm x 65mm x 20mm

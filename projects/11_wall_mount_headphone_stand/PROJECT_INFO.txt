@@ -1,0 +1,26 @@
+PROJECT: Wall Mount Headphone Stand
+=====================================
+Category: Gaming & Audio > Headphone Stands
+Etsy Price: $12-16
+
+DESCRIPTION:
+Sleek wall-mounted headphone hanger with anti-slide lip. Support brace
+underneath for strength. Comfort pad on arm surface. Screw-mount.
+
+FILES:
+  headphone_stand.stl/gcode - Single piece
+
+PRINT STATS:
+  Time:     2h 26m
+  Material: 31.1g PETG (~$0.78 filament)
+
+PRINT TIPS:
+  - Print with wall plate flat on bed
+  - 30%+ infill for structural integrity
+  - PETG for durability
+  - The upturned tip prevents headphones from sliding off
+  - Mount with screws into wall stud or use drywall anchors
+
+DIMENSIONS: 50mm x 80mm wall plate, 80mm arm reach
+FITS: All over-ear headphones
+WEIGHT CAPACITY: ~1-2kg

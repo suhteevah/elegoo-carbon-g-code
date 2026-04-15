@@ -1,0 +1,80 @@
+================================================================================
+  ETSY PRODUCT LINE - ELEGOO CENTAURI CARBON (PETG)
+  Project Index & Print Guide
+================================================================================
+  Printer:   Elegoo Centauri Carbon (CoreXY, Klipper, Direct Drive)
+  Material:  Generic PETG (235C nozzle / 75C bed)
+  Profile:   elegoo_centauri_carbon_petg.ini
+  Generator: generate_all_projects.py (100% original designs, no license issues)
+================================================================================
+
+Each folder contains:
+  - .stl files  (3D models - import to any slicer or share online)
+  - .gcode files (ready to print on Centauri Carbon with PETG)
+  - PROJECT_INFO.txt (details, print settings, Etsy pricing)
+
+================================================================================
+ #   PROJECT                         PRINT TIME    MATERIAL   EST. PRICE
+================================================================================
+
+ 01  Geometric Self-Watering Planter  10h 33m      147.0g     $18-25
+     Two-piece: reservoir + inner pot with drain tubes
+     Files: planter_reservoir.stl, planter_inner_pot.stl
+
+ 02  Honeycomb Desk Organizer          9h 34m      114.2g     $15-22
+     Triple-hex connected pencil/pen cups
+     Files: honeycomb_organizer.stl
+
+ 03  Modern Wall Hook Set              5h 04m       41.7g     $12-18 (set)
+     3 sizes: small, medium, large J-hooks
+     Files: wall_hook_small/medium/large.stl
+
+ 04  Geometric Succulent Pot           2h 19m       30.2g     $10-15
+     Twisted hex pot + matching saucer, drainage hole
+     Files: succulent_pot.stl, succulent_saucer.stl
+
+ 05  Cable Management Clips            1h 15m       10.7g     $8-12 (set of 6)
+     1-slot, 2-slot, 3-slot adhesive-back clips
+     Files: cable_clip_1slot/2slot/3slot.stl
+
+ 06  Minimalist Phone Stand            3h 25m       52.8g     $12-18
+     Clean design with cable channel, 15-degree angle
+     Files: phone_stand.stl
+
+ 07  Floating Shelf Bracket Set        6h 18m       89.8g     $15-22 (pair)
+     Hidden-mount L-brackets: 150mm and 200mm depth
+     Files: shelf_bracket_small_150mm/large_200mm.stl
+
+ 08  Geometric Tea Light Holder        3h 38m       54.7g     $10-15
+     12-sided faceted holder, fits standard tealight (38mm)
+     Files: tea_light_holder.stl
+
+ 09  Soap Dish Drainer                 2h 35m       38.6g     $10-14
+     Angled drainage slats, front drain channel
+     Files: soap_dish.stl
+
+ 10  Modular Drawer Dividers           4h 50m       70.8g     $12-18 (set)
+     Interlocking cross-slot design: 100/200/250mm
+     Files: divider_short/medium/long.stl
+
+ 11  Wall Mount Headphone Stand        2h 26m       31.1g     $12-16
+     Sleek wall hanger with anti-slide tip + support brace
+     Files: headphone_stand.stl
+
+================================================================================
+ TOTALS (full product line)
+================================================================================
+ Print Time:   ~52 hours
+ Material:     ~681g PETG (~$17 in filament)
+ Etsy Revenue: $135-195 (one of each at mid pricing)
+ Profit:       ~$118-178 per full set (not counting time/overhead)
+================================================================================
+
+TOOLS INCLUDED (root folder):
+  elegoo_centauri_carbon_petg.ini   PrusaSlicer profile
+  slice.bat                         Quick-slice any STL
+  slice_all.bat                     Batch-slice all projects
+  generate_all_projects.py          Regenerate all STLs (parametric)
+  generate_planter.py               Standalone planter generator
+  send_email.py                     Gmail email sender with attachments
+================================================================================

@@ -1,0 +1,26 @@
+PROJECT: Floating Shelf Bracket Set
+=====================================
+Category: Home & Living > Shelving
+Etsy Price: $15-22 (pair)
+
+DESCRIPTION:
+Hidden-mount L-bracket shelf supports with diagonal brace for strength.
+Two sizes: 150mm and 200mm shelf depth. Screw-mount to wall studs.
+
+FILES:
+  shelf_bracket_small_150mm.stl/gcode - 150mm depth pair
+  shelf_bracket_large_200mm.stl/gcode - 200mm depth pair
+
+PRINT STATS:
+  Small:   2h 56m | 40.1g PETG
+  Large:   3h 22m | 49.7g PETG
+  Total:   6h 18m | 89.8g PETG (~$2.25 filament)
+
+PRINT TIPS:
+  - Print on side for maximum layer adhesion along stress lines
+  - 50%+ infill for load-bearing use
+  - PETG or ABS recommended (NOT PLA for structural)
+  - Mount to wall studs, not just drywall
+  - Print 2x each for a matching pair
+
+WEIGHT CAPACITY: 5-10kg per pair (depending on mounting)

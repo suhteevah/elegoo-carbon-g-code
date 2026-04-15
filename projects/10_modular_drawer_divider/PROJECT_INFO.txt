@@ -1,0 +1,28 @@
+PROJECT: Modular Drawer Dividers
+=================================
+Category: Home & Living > Organization
+Etsy Price: $12-18 (set of 6 mixed)
+
+DESCRIPTION:
+Interlocking cross-slot drawer dividers. Slot together to create custom
+grid layouts. Three lengths for different drawer sizes. End tabs for grip.
+
+FILES:
+  divider_short_100mm.stl/gcode   - 100mm divider
+  divider_medium_200mm.stl/gcode  - 200mm divider
+  divider_long_300mm.stl/gcode    - 250mm (scaled to fit bed)
+
+PRINT STATS:
+  Short:   1h 03m | 15.1g PETG
+  Medium:  1h 55m | 30.0g PETG
+  Long:    1h 51m | 25.7g PETG
+  Total:   4h 50m | 70.8g PETG (~$1.77 filament)
+
+PRINT TIPS:
+  - Print on side (standing up) for maximum rigidity
+  - Low infill OK (15-20%)
+  - Batch print multiples for efficiency
+  - Slots slide together at cross points
+  - Customize lengths in generate_all_projects.py
+
+DIMENSIONS: 50mm tall, 2.5mm thick, lengths 100/200/250mm
